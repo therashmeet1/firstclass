@@ -1,0 +1,6 @@
+coffee
+apple juice
+milk
+water
+tea
+latte
